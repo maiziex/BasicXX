@@ -7,7 +7,7 @@ BasicXX_One utilizes <a href="https://www.python.org/downloads/">Python3</a>, <a
 ## Running The Code:
 ### Step 1: (Type "python BasicXX_step1.py -h" for help information)
 ```
-python BasicXX_step1.py -l 100000000 -i ../S_24385_Lysis_2_USPD16081850_H3332CCXY_L1 -o S_24385_L1. --out_dir ../
+python BasicXX_step1.py -l 100000000 -i ../S_24385_Lysis_2_USPD16081850_H3332CCXY_L1 -o S_24385_L1 --out_dir ../
 ```
 ```
 usage: BasicXX_step1.py [-h] [--lines LINES]
@@ -71,7 +71,7 @@ optional arguments:
 
 ### Step 4: (Type "python BasicXX_step4.py -h" for help information)
 ```
-python BasicXX_step4.py -o S_24385_L1 --out_dir ../ -r /scratch/users/xzhou15/refdata-GRCh38-2.1.0/fasta/genome.fa
+python BasicXX_step4.py -o S_24385_L1 --out_dir ../ -r refdata-GRCh38-2.1.0/fasta/genome.fa
 ```
 
 ```
@@ -92,7 +92,7 @@ optional arguments:
 
 ### Step 5: (Type "python BasicXX_step5.py -h" for help information)
 ```
-python BasicXX_step5.py -o S_24385_L1 --out_dir ../ -b /scratch/users/xzhou15/SimProj_10X/RealData/Scripts/barcode4M.fa --h5_dir ../qual_20/
+python BasicXX_step5.py -o S_24385_L1 --out_dir ../ -b barcode4M.fa --h5_dir ../qual_20/
 ```
 
 ```
