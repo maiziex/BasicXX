@@ -12,7 +12,7 @@ def flatten(listoflist):
 
 
 def process_sorted_bam(sam_file,output_file):
-    threshold_pairs = 3
+    threshold_pairs = 2
     f = open(sam_file,"r")
     fw= open(output_file,"w")
     mole_dict = defaultdict(list)
