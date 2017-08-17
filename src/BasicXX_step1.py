@@ -13,8 +13,10 @@ args = parser.parse_args()
 
 if __name__ == "__main__":
     if len(sys.argv) == 1:
+        os.system("chmod +x *.sh")
         os.system("python BasicXX_step1.py -h")
     else:
+        os.system("chmod +x *.sh")
         gunzip_command_1 = "gunzip " + args.input_file_prefix + "_1.fq.gz" 
         gunzip_command_2 = "gunzip " + args.input_file_prefix + "_2.fq.gz" 
         print(gunzip_command_1)
