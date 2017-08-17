@@ -119,6 +119,9 @@ optional arguments:
 ```
 python BasicXX_step6.py --h5_dir ../../qual_20/
 ```
+```
+output: report.txt
+```
 
 ```
 usage: BasicXX_step6.py [-h] [--h5_dir H5_DIR]
