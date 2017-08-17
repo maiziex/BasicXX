@@ -114,3 +114,19 @@ optional arguments:
   --barcode_whitelist BARCODE_WHITELIST, -b BARCODE_WHITELIST
                         Barcode white list
 ```
+
+### Step 6: (Type "python BasicXX_step6.py -h" for help information)
+```
+python BasicXX_step6.py --h5_dir ../../qual_20/
+```
+
+```
+usage: BasicXX_step6.py [-h] [--h5_dir H5_DIR]
+
+Run 10x Basic -- step 6: concatenate all h5 files
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --h5_dir H5_DIR, -h5 H5_DIR
+                        Directory to store h5 related files
+```
