@@ -9,7 +9,7 @@ Click <a href="http://xinzhouneuroscience.org/wp-content/uploads/2017/08/barcode
 ```
 wget http://xinzhouneuroscience.org/wp-content/uploads/2017/08/barcode4M.fa
 ```
-To download referece files, go to <a href="http://xinzhouneuroscience.org/wp-content/uploads/2017/08/barcode4M.fa.zip">10X GENOMICS Website</a>, or
+To download referece files, go to <a href="https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest">10X GENOMICS Website</a>, or
 ```
 wget http://cf.10xgenomics.com/supp/cell-exp/refdata-cellranger-GRCh38-1.2.0.tar.gz
 ```
