@@ -1,5 +1,5 @@
 # BasicXX
-Alternatively, it can also use <a href="https://github.com/maiziex/BasicXX_One">BasicXX_One</a> by only one step. ...
+Alternatively, it can also use <a href="https://github.com/maiziex/BasicXX_One">BasicXX_One</a> by only one step. <br />
 To extract fastqs files based on Cr (reads coverage), it can use <a href="https://github.com/maiziex/ExctractXX">ExtractXX</a>
 
 ## Dependencies:
