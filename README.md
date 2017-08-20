@@ -1,5 +1,6 @@
 # BasicXX
 Alternatively, it can also use <a href="https://github.com/maiziex/BasicXX_One">BasicXX_One</a> by only one step.
+To extract fastqs files based on Cr (reads coverage), it can use <a href="https://github.com/maiziex/ExctractXX">ExtractXX</a>
 
 ## Dependencies:
 BasicXX_One utilizes <a href="https://www.python.org/downloads/">Python3</a>, <a href="http://bio-bwa.sourceforge.net/">BWA (Align Fastqs Files)</a>, <a href="http://samtools.sourceforge.net/">SAMtools</a>, and <a href="http://broadinstitute.github.io/picard/">Picard (Remove PCR duplicates)</a>. To be able to execute the above programs by typing their name on the command line, the program executables must be in one of the directories listed in the PATH environment variable.
