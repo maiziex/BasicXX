@@ -5,13 +5,13 @@ Alternatively, it can also use <a href="https://github.com/maiziex/BasicXX_One">
 BasicXX_One utilizes <a href="https://www.python.org/downloads/">Python3</a>, <a href="http://bio-bwa.sourceforge.net/">BWA (Align Fastqs Files)</a>, <a href="http://samtools.sourceforge.net/">SAMtools</a>, and <a href="http://broadinstitute.github.io/picard/">Picard (Remove PCR duplicates)</a>. To be able to execute the above programs by typing their name on the command line, the program executables must be in one of the directories listed in the PATH environment variable.
 
 ## Downloads:
-Click <a href="http://xinzhouneuroscience.org/wp-content/uploads/2017/08/barcode4M.fa.zip">barcode4M.fa</a> to download 10X barcode whitelist, or 
-```
-wget http://xinzhouneuroscience.org/wp-content/uploads/2017/08/barcode4M.fa
-```
 To download referece files, go to <a href="https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest">10X GENOMICS Website</a>, or
 ```
 wget http://cf.10xgenomics.com/supp/cell-exp/refdata-cellranger-GRCh38-1.2.0.tar.gz
+```
+Click <a href="http://xinzhouneuroscience.org/wp-content/uploads/2017/08/barcode4M.fa.zip">barcode4M.fa</a> to download 10X barcode whitelist, or 
+```
+wget http://xinzhouneuroscience.org/wp-content/uploads/2017/08/barcode4M.fa
 ```
 
 ## Running The Code:
