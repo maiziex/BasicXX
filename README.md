@@ -126,7 +126,7 @@ output: report.txt
 ```
 usage: BasicXX_step6.py [-h] [--h5_dir H5_DIR]
 
-Run 10x Basic -- step 6: concatenate all h5 files
+Run 10x Basic -- step 6: concatenate all h5 files and report results
 
 optional arguments:
   -h, --help            show this help message and exit
