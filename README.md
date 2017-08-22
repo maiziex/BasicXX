@@ -8,7 +8,7 @@ BasicXX_One utilizes <a href="https://www.python.org/downloads/">Python3</a>, <a
 ## Downloads:
 To download referece files, go to <a href="https://support.10xgenomics.com/single-cell-gene-expression/software/downloads/latest">10X GENOMICS Website</a>, or
 ```
-wget http://cf.10xgenomics.com/supp/cell-exp/refdata-cellranger-GRCh38-1.2.0.tar.gz
+wget http://cf.10xgenomics.com/supp/cell-exp/refdata-cellranger-hg19-1.2.0.tar.gz
 ```
 Click <a href="http://xinzhouneuroscience.org/wp-content/uploads/2017/08/barcode4M.fa.zip">barcode4M.fa</a> to download 10X barcode whitelist, or 
 ```
