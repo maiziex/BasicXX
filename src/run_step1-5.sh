@@ -13,5 +13,6 @@ python BasicXX_step4.py -o S_24385_L1. --out_dir ../ -r /scratch/users/xzhou15/r
 # step 5:
 #python BasicXX_step5.py -o Xin --out_dir ../ -b /scratch/users/xzhou15/SimProj_10X/RealData/Scripts/barcode4M.fa --h5_dir ../qual_20/
 
-
+# step 6:
+python BasicXX_step6.py --h5_dir ../../qual_20/
 
